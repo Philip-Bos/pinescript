@@ -1,2 +1,2 @@
-# pinescript
+# PineScript
 A collection of open source pinescript indicators and scripts
